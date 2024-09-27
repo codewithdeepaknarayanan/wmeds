@@ -3,8 +3,8 @@
 This project contains code that is featured in the [AEM Block Collection](https://www.aem.live/developer/block-collection#block-collection-1) documentation.
 
 ## Environments
-- Preview: https://main--aem-block-collection--adobe.hlx.page/
-- Live: https://main--aem-block-collection--adobe.hlx.live/
+- Preview: https://main--wmeds--codewithdeepaknarayanan.hlx.page/
+- Live: https://main--wmeds--codewithdeepaknarayanan.hlx.live/
 
 ## Installation
 
